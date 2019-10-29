@@ -101,3 +101,6 @@ Stretch Questions
     inline:<span><img><a>
     5. In your own words, explain the box model. What is the fix for the box model? 
     The box model is a box that is formed around the content using padding, border and margin.
+
+
+    
